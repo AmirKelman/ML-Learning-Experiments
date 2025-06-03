@@ -1,4 +1,4 @@
-# IMLearn-Project
+# ML-Learning-Experiments
 
 ## Overview
 This repository contains implementations and investigations of machine learning concepts as part of the IMLearn coursework. It includes Python scripts for gradient descent, logistic regression, and learning rate experiments, along with supporting documentation.
